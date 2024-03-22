@@ -4,25 +4,29 @@
       "name": "Tabata",
       "schedule": "Monday",
       "description": "A fast-paced class focusing on cardio and strength through high-intensity interval training.",
-      "trainerId": "trainer_001"
+      "trainerId": "trainer_001",
+      "image": "https://placekitten.com/200/300?image=1"
     },
     {
       "name": "HIIT",
       "schedule": "Tuesday",
       "description": "High-Intensity Interval Training class that boosts metabolism and burns fat.",
-      "trainerId": "trainer_002"
+      "trainerId": "trainer_002",
+      "image": "https://placekitten.com/200/300?image=2"
     },
     {
       "name": "ABT",
       "schedule": "Wednesday",
       "description": "Targets Abs, Buttocks, and Thighs for a complete lower body workout.",
-      "trainerId": "trainer_003"
+      "trainerId": "trainer_003",
+      "image": "https://placekitten.com/200/300?image=3"
     },
     {
       "name": "TBC",
       "schedule": "Thursday",
       "description": "Total Body Conditioning using various equipment and exercises for full-body fitness.",
-      "trainerId": "trainer_004"
+      "trainerId": "trainer_004",
+      "image": "https://placekitten.com/200/300?image=4"
     }
   ],
   "trainers": [
@@ -30,25 +34,29 @@
       "id": "trainer_001",
       "name": "Alex Smith",
       "specialties": ["Tabata", "TBC"],
-      "description": "A passionate fitness coach specialized in high-intensity workouts and total body conditioning."
+      "description": "A passionate fitness coach specialized in high-intensity workouts and total body conditioning.",
+      "image": "https://placekitten.com/200/300?image=5"
     },
     {
       "id": "trainer_002",
       "name": "Maria Garcia",
       "specialties": ["HIIT"],
-      "description": "Certified HIIT instructor with a background in sports science and nutrition."
+      "description": "Certified HIIT instructor with a background in sports science and nutrition.",
+      "image": "https://placekitten.com/200/300?image=6"
     },
     {
       "id": "trainer_003",
       "name": "Linda Johnson",
       "specialties": ["ABT"],
-      "description": "Expert in targeted lower body workouts, helping clients achieve their ideal physique."
+      "description": "Expert in targeted lower body workouts, helping clients achieve their ideal physique.",
+      "image": "https://placekitten.com/200/300?image=7"
     },
     {
       "id": "trainer_004",
       "name": "James Wilson",
       "specialties": ["TBC", "Tabata"],
-      "description": "Fitness enthusiast and personal trainer, dedicated to improving clients' overall strength and endurance."
+      "description": "Fitness enthusiast and personal trainer, dedicated to improving clients' overall strength and endurance.",
+      "image": "https://placekitten.com/200/300?image=8"
     }
   ]
 }
