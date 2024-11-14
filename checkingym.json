@@ -20,7 +20,7 @@
             "type": "HIIT",
             "duration": "60",
             "weekday": "Tuesday",
-            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/HIIT-Training.gif"
+            "pictureUrl": "http://checkingym.pl/wp-content/uploads/2019/05/Zaj%C4%99cia-1500.jpeg"
         },
         {
             "title": "Trening Cardio",
@@ -31,7 +31,7 @@
             "type": "CARDIO",
             "duration": "60",
             "weekday": "Thursday",
-            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/Cardio-Training.gif"
+            "pictureUrl": "http://checkingym.pl/wp-content/uploads/2019/05/Zaj%C4%99cia-1500.jpeg"
         }
     ],
     "coaches": [
@@ -41,13 +41,13 @@
             "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/IMG_9470-1200.jpg"
         },
         {
-            "name": "Ola Fit",
-            "desc": "Ola jest dynamiczną instruktorką, specjalizującą się w treningach interwałowych, które są idealnym połączeniem cardio i siły. Z wieloletnim doświadczeniem w pracy z różnymi grupami uczestników, Ola potrafi dostosować intensywność treningu do poziomu każdego, jednocześnie zachęcając do przekraczania własnych granic. Jej zajęcia są pełne energii, a sama Ola, z pełnym zaangażowaniem, motywuje do osiągania kolejnych celów i ciągłego rozwoju. Uczestnicy cenią ją za profesjonalizm i zdolność do budowania przyjaznej atmosfery, dzięki której każdy trening staje się wyjątkowym doświadczeniem.",
+            "name": "Viola Fit",
+            "desc": "Viola jest dynamiczną instruktorką, specjalizującą się w treningach interwałowych, które są idealnym połączeniem cardio i siły. Z wieloletnim doświadczeniem w pracy z różnymi grupami uczestników, Ola potrafi dostosować intensywność treningu do poziomu każdego, jednocześnie zachęcając do przekraczania własnych granic. Jej zajęcia są pełne energii, a sama Ola, z pełnym zaangażowaniem, motywuje do osiągania kolejnych celów i ciągłego rozwoju. Uczestnicy cenią ją za profesjonalizm i zdolność do budowania przyjaznej atmosfery, dzięki której każdy trening staje się wyjątkowym doświadczeniem.",
             "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/IMG_9460-1200.jpg"
         },
         {
-            "name": "Ania Kondycja",
-            "desc": "Ania to entuzjastyczna trenerka cardio, która inspiruje do poprawy kondycji fizycznej oraz osiągania nowych poziomów wytrzymałości. Dzięki jej podejściu, każdy uczestnik może liczyć na indywidualne wsparcie i porady, które pomagają w osiągnięciu lepszych wyników. Ania wierzy, że regularna aktywność fizyczna to klucz do zdrowia i dobrego samopoczucia, dlatego jej treningi są pełne motywacji, intensywności i energii. Jest znana z dynamicznych zajęć, które jednocześnie wyczerpują i dodają energii, pozwalając uczestnikom poczuć się silniejszymi i bardziej zmotywowanymi.",
+            "name": "Viola Kondycja",
+            "desc": "Viola to entuzjastyczna trenerka cardio, która inspiruje do poprawy kondycji fizycznej oraz osiągania nowych poziomów wytrzymałości. Dzięki jej podejściu, każdy uczestnik może liczyć na indywidualne wsparcie i porady, które pomagają w osiągnięciu lepszych wyników. Ania wierzy, że regularna aktywność fizyczna to klucz do zdrowia i dobrego samopoczucia, dlatego jej treningi są pełne motywacji, intensywności i energii. Jest znana z dynamicznych zajęć, które jednocześnie wyczerpują i dodają energii, pozwalając uczestnikom poczuć się silniejszymi i bardziej zmotywowanymi.",
             "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/IMG_9465-1200.jpg"
         }
     ]
