@@ -1,55 +1,54 @@
 {
     "events": [
         {
-            "title": "Trening silowy Remote",
-            "desc": "Trening silowy z Pawłem",
+            "title": "Trening siłowy z Pawłem",
+            "desc": "Pawel Bodych to doświadczony trener siłowy, znany ze swojego zaangażowania i profesjonalizmu. Jego treningi koncentrują się na budowaniu siły oraz masy mięśniowej, dostosowując intensywność ćwiczeń do potrzeb każdego uczestnika. Pawel nie tylko motywuje, ale również kładzie duży nacisk na prawidłową technikę, co minimalizuje ryzyko kontuzji i maksymalizuje efekty treningowe. Pod jego okiem uczestnicy pracują nad rozwojem zarówno siły fizycznej, jak i wytrzymałości, co sprawia, że każdy trening to krok do osiągnięcia wymarzonej sylwetki.",
             "startTime": "10:00",
             "endTime": "12:00",
-            "coach": "Pawel trener",
+            "coach": "Pawel Bodych",
             "type": "SIŁOWY",
             "duration": "120",
-            "weekday":"Monday",
+            "weekday": "Monday",
             "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/STACYJKI-PB-2.gif"
         },
         {
-            "title": "Trening silowy2",
-            "desc": "descriptionasdssssssssssssssdadasdasdasdadklajshflksafhksajhfksjfkashgfjhsagfjhsagfjahsgfjhsagfjsagfsjhgfajshgfjasgfjahsgfajhgfajshgfajhgfajshgfajshgfajgfjasgfjashgfjashgfjshgfjshgfjasgfjashgfsjhfgasjfgasjhfgasjhfgasjhgfsajhgfasjhgfasjhgfsajhgfsjfgsajhfgsajhfgasjhfgassajhgfsajhfgsjfgsjfgsajfgsjhfgsajhfgajfgajshfgjasgfsjhfgsjhfgasjhfgsjhfgsjhfgsajfhgasjhfgsjhfgsjhfgasjhfgsjhgfsjhgfsajhgfasjhgfsjhfgsjhgfasjhgfasjhfgjahsgfsjhgfsjhfgsjhgfsjahgfsjhgfsjhgfajshgfsjhgfasjhgdfsjahgfjshgfjshgfjshgfsjhgfajshgfjshgfsjkhfgajshfgjsahdgfajskhgfsajhfgaskjhfgsakjhfgaskjhdfgasjhfgsjakhgfsjkahgfsjhgfjsahgfsjhgfajshgfjshgfjaskhfgsajkhfgsajhfgsjhfgskjhfgajkhfgsjkahgdfaksjhfgaskjhdfgaskjhdfgaksjhdfgaksjhdfgaksjhdfakjhsgfakjhfgasjkhfgsakfjdhgakjasdhgfaksjfhgasdhfgkasjdhfgaksdjhfgkajhsdfgkahjsdfgaksjhfgakjshdfgkajsdhfgkajsdhfgaksjdhfgakjdhfgfkasjhfgsafasfsakjfgsfsfsakjhfgkasjhfgsajkfgsajdfgsjkfgsajhgfsjfgsajfgshjgfakjshdfgsajkfhgasjkdhgfajskhfgsajhkasjhgfsajhgfjshgfsjhaf",
-            "startTime": "19:00",
-            "endTime": "20:00",
-            "coach": "Pawel trener",
-            "type": "SIŁOWY",
+            "title": "Trening HIIT",
+            "desc": "Intensywny trening interwałowy z Olą to wyjątkowe połączenie ćwiczeń cardio oraz elementów siłowych, które zwiększają wytrzymałość, poprawiają kondycję i przyspieszają spalanie tłuszczu. Każda sesja jest dynamiczna i pełna energii, co sprawia, że nie tylko spalasz kalorie, ale również wzmacniasz serce, płuca oraz mięśnie całego ciała. Ola, ze swoją charyzmą i motywującym podejściem, potrafi zmobilizować do intensywnego wysiłku nawet tych, którzy mają mniejszą motywację do aktywności fizycznej. Idealne dla osób szukających wyzwania i szybkich efektów!",
+            "startTime": "09:00",
+            "endTime": "10:00",
+            "coach": "Ola instruktorka",
+            "type": "HIIT",
             "duration": "60",
-            "weekday":"Wednesday",
-            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/STACYJKI-PB-2.gif"
+            "weekday": "Tuesday",
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/HIIT-Training.gif"
         },
         {
-            "title": "Trening silowy3",
-            "desc": "Trening silowy z Pawłem3",
-            "startTime": "10:00",
-            "endTime": "12:00",
-            "coach": "Pawel trener",
-            "type": "SIŁOWY",
-            "duration": "120",
-            "weekday":"Monday",
-            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/STACYJKI-PB-2.gif"
+            "title": "Trening Cardio",
+            "desc": "Trening cardio z Anią to dynamiczna sesja, która skupia się na poprawie wydolności organizmu i efektywnym spalaniu kalorii. Dzięki odpowiednio dobranym ćwiczeniom cardio, prowadzonym w rytm energetycznej muzyki, uczestnicy mogą poczuć przypływ endorfin i zyskać więcej energii na co dzień. Ania, z pełnym profesjonalizmem i entuzjazmem, dostosowuje intensywność ćwiczeń do możliwości każdego, co czyni jej zajęcia odpowiednimi zarówno dla osób zaawansowanych, jak i dla tych, którzy dopiero zaczynają swoją przygodę z aktywnością fizyczną. Każda sesja to krok do zdrowszego i bardziej wytrzymałego ciała.",
+            "startTime": "18:00",
+            "endTime": "19:00",
+            "coach": "Ania trener",
+            "type": "CARDIO",
+            "duration": "60",
+            "weekday": "Thursday",
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/Cardio-Training.gif"
         }
     ],
     "coaches": [
         {
             "name": "Pawel Bodych",
-            "desc": "Paweł wyciska jak szalony.",
+            "desc": "Pawel Bodych to uznany trener personalny z wieloletnim doświadczeniem w treningach siłowych i kondycyjnych. Znany z pełnego zaangażowania oraz indywidualnego podejścia, Pawel potrafi zmotywować uczestników do osiągania najlepszych wyników, jednocześnie dbając o ich bezpieczeństwo i technikę wykonywania ćwiczeń. Jego metody są wymagające, ale bardzo efektywne, a rezultaty w postaci zwiększonej siły i masy mięśniowej mówią same za siebie. Pawel jest również pasjonatem zdrowego stylu życia, co dodatkowo inspiruje jego podopiecznych.",
             "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/IMG_9470-1200.jpg"
         },
         {
-            "name": "Pawel Bodych 2",
-            "desc": "Paweł wyciska jak szalony. 2",
-            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/IMG_9470-1200.jpg"
+            "name": "Ola Fit",
+            "desc": "Ola jest dynamiczną instruktorką, specjalizującą się w treningach interwałowych, które są idealnym połączeniem cardio i siły. Z wieloletnim doświadczeniem w pracy z różnymi grupami uczestników, Ola potrafi dostosować intensywność treningu do poziomu każdego, jednocześnie zachęcając do przekraczania własnych granic. Jej zajęcia są pełne energii, a sama Ola, z pełnym zaangażowaniem, motywuje do osiągania kolejnych celów i ciągłego rozwoju. Uczestnicy cenią ją za profesjonalizm i zdolność do budowania przyjaznej atmosfery, dzięki której każdy trening staje się wyjątkowym doświadczeniem.",
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/IMG_9460-1200.jpg"
         },
         {
-            "name": "Pawel Bodych 3",
-            "desc": "Paweł wyciska jak szalony. 3",
-            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/IMG_9470-1200.jpg"
+            "name": "Ania Kondycja",
+            "desc": "Ania to entuzjastyczna trenerka cardio, która inspiruje do poprawy kondycji fizycznej oraz osiągania nowych poziomów wytrzymałości. Dzięki jej podejściu, każdy uczestnik może liczyć na indywidualne wsparcie i porady, które pomagają w osiągnięciu lepszych wyników. Ania wierzy, że regularna aktywność fizyczna to klucz do zdrowia i dobrego samopoczucia, dlatego jej treningi są pełne motywacji, intensywności i energii. Jest znana z dynamicznych zajęć, które jednocześnie wyczerpują i dodają energii, pozwalając uczestnikom poczuć się silniejszymi i bardziej zmotywowanymi.",
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/IMG_9465-1200.jpg"
         }
     ]
-    
 }
