@@ -37,17 +37,17 @@
     "coaches": [
         {
             "name": "Pawel Bodych",
-            "description": "Paweł wyciska jak szalony.",
+            "desc": "Paweł wyciska jak szalony.",
             "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/IMG_9470-1200.jpg"
         },
         {
             "name": "Pawel Bodych 2",
-            "description": "Paweł wyciska jak szalony. 2",
+            "desc": "Paweł wyciska jak szalony. 2",
             "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/IMG_9470-1200.jpg"
         },
         {
             "name": "Pawel Bodych 3",
-            "description": "Paweł wyciska jak szalony. 3",
+            "desc": "Paweł wyciska jak szalony. 3",
             "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/IMG_9470-1200.jpg"
         }
     ]
