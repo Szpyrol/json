@@ -1,5 +1,5 @@
 {
-    "workouts": [
+    "events": [
         {
             "title": "Trening silowy",
             "desc": "Trening silowy z Pawłem",
@@ -9,18 +9,18 @@
             "type": "SIŁOWY",
             "duration": "120",
             "weekday":"Monday",
-            "pictureUrl": "http://checkingym.pl/wp-content/uploads/2020/10/STACYJKI-PB-2.gif"
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/STACYJKI-PB-2.gif"
         },
         {
             "title": "Trening silowy2",
-            "desc": "Trening silowy z Pawłem2",
+            "desc": "descriptionasdssssssssssssssdadasdasdasdadklajshflksafhksajhfksjfkashgfjhsagfjhsagfjahsgfjhsagfjsagfsjhgfajshgfjasgfjahsgfajhgfajshgfajhgfajshgfajshgfajgfjasgfjashgfjashgfjshgfjshgfjasgfjashgfsjhfgasjfgasjhfgasjhfgasjhgfsajhgfasjhgfasjhgfsajhgfsjfgsajhfgsajhfgasjhfgassajhgfsajhfgsjfgsjfgsajfgsjhfgsajhfgajfgajshfgjasgfsjhfgsjhfgasjhfgsjhfgsjhfgsajfhgasjhfgsjhfgsjhfgasjhfgsjhgfsjhgfsajhgfasjhgfsjhfgsjhgfasjhgfasjhfgjahsgfsjhgfsjhfgsjhgfsjahgfsjhgfsjhgfajshgfsjhgfasjhgdfsjahgfjshgfjshgfjshgfsjhgfajshgfjshgfsjkhfgajshfgjsahdgfajskhgfsajhfgaskjhfgsakjhfgaskjhdfgasjhfgsjakhgfsjkahgfsjhgfjsahgfsjhgfajshgfjshgfjaskhfgsajkhfgsajhfgsjhfgskjhfgajkhfgsjkahgdfaksjhfgaskjhdfgaskjhdfgaksjhdfgaksjhdfgaksjhdfakjhsgfakjhfgasjkhfgsakfjdhgakjasdhgfaksjfhgasdhfgkasjdhfgaksdjhfgkajhsdfgkahjsdfgaksjhfgakjshdfgkajsdhfgkajsdhfgaksjdhfgakjdhfgfkasjhfgsafasfsakjfgsfsfsakjhfgkasjhfgsajkfgsajdfgsjkfgsajhgfsjfgsajfgshjgfakjshdfgsajkfhgasjkdhgfajskhfgsajhkasjhgfsajhgfjshgfsjhaf",
             "startTime": "19:00",
             "endTime": "20:00",
             "coach": "Pawel trener",
             "type": "SIŁOWY",
             "duration": "60",
             "weekday":"Wednesday",
-            "pictureUrl": "http://checkingym.pl/wp-content/uploads/2020/10/STACYJKI-PB-2.gif"
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/STACYJKI-PB-2.gif"
         },
         {
             "title": "Trening silowy3",
@@ -31,24 +31,24 @@
             "type": "SIŁOWY",
             "duration": "120",
             "weekday":"Monday",
-            "pictureUrl": "http://checkingym.pl/wp-content/uploads/2020/10/STACYJKI-PB-2.gif"
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/STACYJKI-PB-2.gif"
         }
     ],
-    "trainers": [
+    "coaches": [
         {
             "name": "Pawel Bodych",
             "description": "Paweł wyciska jak szalony.",
-            "pictureUrl": "http://checkingym.pl/wp-content/uploads/2019/05/IMG_9470-1200.jpg"
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/IMG_9470-1200.jpg"
         },
         {
             "name": "Pawel Bodych 2",
             "description": "Paweł wyciska jak szalony. 2",
-            "pictureUrl": "http://checkingym.pl/wp-content/uploads/2019/05/IMG_9470-1200.jpg"
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/IMG_9470-1200.jpg"
         },
         {
             "name": "Pawel Bodych 3",
             "description": "Paweł wyciska jak szalony. 3",
-            "pictureUrl": "http://checkingym.pl/wp-content/uploads/2019/05/IMG_9470-1200.jpg"
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/IMG_9470-1200.jpg"
         }
     ]
     
