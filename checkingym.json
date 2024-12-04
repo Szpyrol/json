@@ -102,34 +102,70 @@
     ],
     "coaches": [
         {
-            "name": "Basia",
-            "desc": "Basia to energiczna instruktorka fitness z pasją do treningów siłowych. Specjalizuje się w zajęciach BODY PUMP, gdzie zaraża uczestników swoją pozytywną energią i motywuje do przekraczania własnych granic. Zawsze dba o technikę i bezpieczeństwo ćwiczeń.",
-            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/basia.jpg"
-        },
-        {
             "name": "Pawel Bodych",
             "desc": "Pawel Bodych to uznany trener personalny z wieloletnim doświadczeniem w treningach siłowych i kondycyjnych. Znany z pełnego zaangażowania oraz indywidualnego podejścia, Pawel potrafi zmotywować uczestników do osiągania najlepszych wyników, jednocześnie dbając o ich bezpieczeństwo i technikę wykonywania ćwiczeń.",
-            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/IMG_9470-1200.jpg"
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/IMG_9470-1200.jpg",
+            "role": "Trener Personalny"
+        },
+        {
+            "name": "Basia",
+            "desc": "Basia to energiczna instruktorka fitness z pasją do treningów siłowych. Specjalizuje się w zajęciach BODY PUMP, gdzie zaraża uczestników swoją pozytywną energią i motywuje do przekraczania własnych granic. Zawsze dba o technikę i bezpieczeństwo ćwiczeń.",
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/basia.jpg",
+            "role": "Trener Personalny"
+        },
+        {
+            "name": "Kamil",
+            "desc": "Kamil to trener personalny i zawodnik kickboxingu, specjalizujący się w treningu siłowym, funkcjonalnym oraz boksie. Jego misją jest poprawa świadomości ciała i eliminacja bólu poprzez kompleksowy trening.",
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/default-trainer.jpg",
+            "role": "Trener Personalny"
+        },
+        {
+            "name": "Bartosz",
+            "desc": "Bartosz to trener, który pomaga osiągnąć lepszą kondycję i zdrowie, szczególnie dla początkujących i osób z trudnościami w aktywności fizycznej. Specjalizuje się w treningu siłowym, mobilności i rehabilitacji kręgosłupa.",
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/default-trainer.jpg",
+            "role": "Trener Personalny"
+        },
+        {
+            "name": "Maciek Petryszyn",
+            "desc": "Maciek Petryszyn to trener personalny z doświadczeniem w kolarstwie od 5 roku życia. Skupia się na początkujących na siłowni i aktywności fizycznej, gotów pomagać w osiąganiu celów treningowych.",
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/default-trainer.jpg",
+            "role": "Trener Personalny"
+        },
+        {
+            "name": "Monika Wyszomierska",
+            "desc": "Monika Wyszomierska to dietetyk i trener personalny z certyfikatami z treningów funkcjonalnych i kształtowania sylwetki. Aktywna zawodniczka sportów sylwetkowych IFBB i NPC Poland, łączy zdrowe odżywianie z treningiem personalnym.",
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/default-trainer.jpg",
+            "role": "Trener Personalny"
+        },
+        {
+            "name": "Mateusz",
+            "desc": "Mateusz to trener personalny z wykształceniem w edukacji sportowej, specjalizujący się w treningu funkcjonalnym, rehabilitacji ruchowej i przygotowaniu motorycznym sportowców. Pracuje z amatorami i profesjonalistami, koncentrując się na usprawnianiu ruchu i eliminacji bólu.",
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/default-trainer.jpg",
+            "role": "Trener Personalny"
         },
         {
             "name": "Andżelika",
             "desc": "Andżelika to certyfikowana instruktorka Pilates, która z pasją prowadzi zajęcia skupiające się na harmonii ciała i umysłu. Jej profesjonalizm i spokojne podejście sprawiają, że uczestnicy czują się komfortowo i są w stanie w pełni skorzystać z dobrodziejstw Pilatesu.",
-            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/andzelika.jpg"
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/andzelika.jpg",
+            "role": "Instruktor"
         },
         {
             "name": "Agnieszka",
-            "desc": "Agnieszka to charyzmatyczna trenerka specjalizująca się w treningach interwałowych i obwodowych. Jej zajęcia są intensywne i pełne wyzwań, ale jednocześnie prowadzone w sposób motywujący i wspierający. Agnieszka pomaga uczestnikom osiągać cele szybciej, niż się tego spodziewają.",
-            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/agnieszka.jpg"
+            "desc": "Agnieszka to charyzmatyczna trenerka specjalizująca się w treningach interwałowych i obwodowych. Jej zajęcia są intensywne i pełne wyzwań, ale jednocześnie prowadzone w sposób motywujący i wspierający.",
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/agnieszka.jpg",
+            "role": "Instruktor"
         },
         {
             "name": "Anita",
             "desc": "Anita to doświadczona instruktorka fitness, która z pasją prowadzi zajęcia TBC. Jej treningi są różnorodne i dynamiczne, dzięki czemu uczestnicy nigdy się nie nudzą i ciągle są motywowani do dalszej pracy nad sobą.",
-            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/anita.jpg"
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/anita.jpg",
+            "role": "Instruktor"
         },
         {
             "name": "Iza",
             "desc": "Iza to wykwalifikowana instruktorka jogi z wieloletnim doświadczeniem. Jej zajęcia łączą tradycyjne techniki jogi z ćwiczeniami wzmacniającymi kręgosłup. Iza pomaga uczestnikom znaleźć równowagę między ciałem a umysłem, poprawiając jednocześnie ich samopoczucie i zdrowie.",
-            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/iza.jpg"
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/iza.jpg",
+            "role": "Instruktor"
         }
     ]
 }
