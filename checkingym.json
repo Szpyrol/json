@@ -1,17 +1,6 @@
 {
     "events": [
         {
-            "title": "BODY PUMP (BASIA)",
-            "desc": "BODY PUMP z Basią to dynamiczny trening siłowy z wykorzystaniem sztang i ciężarków. Basia, pełna energii instruktorka, prowadzi zajęcia tak, aby każdy mógł poprawić swoją wytrzymałość, spalić kalorie i wzmocnić mięśnie. Niezależnie od poziomu zaawansowania, zajęcia z Basią dostarczą Ci motywacji i wsparcia w osiąganiu Twoich celów fitness.",
-            "startTime": "09:00",
-            "endTime": "10:00",
-            "coach": "Basia",
-            "type": "BODY PUMP",
-            "duration": "60",
-            "weekday": "Wtorek",
-            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/body-pump.jpg"
-        },
-        {
             "title": "OBWODY (PAWEL)",
             "desc": "Trening obwodowy z Pawłem to intensywna sesja łącząca ćwiczenia siłowe i cardio. Paweł Bodych, doświadczony trener, dba o to, aby każdy uczestnik pracował na maksimum swoich możliwości, poprawiając jednocześnie technikę i bezpieczeństwo wykonywanych ćwiczeń. Idealne dla osób chcących poprawić kondycję i zwiększyć siłę mięśniową.",
             "startTime": "19:00",
@@ -23,26 +12,15 @@
             "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/obwody.jpg"
         },
         {
-            "title": "OBWODY (PAWEL)",
-            "desc": "Poranny trening obwodowy z Pawłem to doskonały sposób na rozpoczęcie dnia pełnym energii. Pod okiem doświadczonego trenera skupisz się na poprawie wytrzymałości i siły, wykonując serię ćwiczeń angażujących różne partie mięśniowe.",
+            "title": "BODY PUMP (BASIA)",
+            "desc": "BODY PUMP z Basią to dynamiczny trening siłowy z wykorzystaniem sztang i ciężarków. Basia, pełna energii instruktorka, prowadzi zajęcia tak, aby każdy mógł poprawić swoją wytrzymałość, spalić kalorie i wzmocnić mięśnie. Niezależnie od poziomu zaawansowania, zajęcia z Basią dostarczą Ci motywacji i wsparcia w osiąganiu Twoich celów fitness.",
             "startTime": "09:00",
             "endTime": "10:00",
-            "coach": "Pawel Bodych",
-            "type": "OBWODY",
+            "coach": "Basia",
+            "type": "BODY PUMP",
             "duration": "60",
-            "weekday": "Środa",
-            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/obwody.jpg"
-        },
-        {
-            "title": "PILATES (ANDŻELIKA)",
-            "desc": "Pilates z Andżeliką to harmonijne połączenie ćwiczeń wzmacniających i rozciągających. Andżelika skupia się na poprawie postawy, elastyczności oraz wzmocnieniu mięśni głębokich. Zajęcia są odpowiednie dla wszystkich, którzy chcą zadbać o zdrowy kręgosłup i równowagę ciała.",
-            "startTime": "09:00",
-            "endTime": "10:00",
-            "coach": "Andżelika",
-            "type": "PILATES",
-            "duration": "60",
-            "weekday": "Piątek",
-            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/pilates.jpg"
+            "weekday": "Wtorek",
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/body-pump.jpg"
         },
         {
             "title": "OBWODY / Tabata (Agnieszka)",
@@ -54,6 +32,17 @@
             "duration": "60",
             "weekday": "Wtorek",
             "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/tabata.jpg"
+        },
+        {
+            "title": "OBWODY (PAWEL)",
+            "desc": "Poranny trening obwodowy z Pawłem to doskonały sposób na rozpoczęcie dnia pełnym energii. Pod okiem doświadczonego trenera skupisz się na poprawie wytrzymałości i siły, wykonując serię ćwiczeń angażujących różne partie mięśniowe.",
+            "startTime": "09:00",
+            "endTime": "10:00",
+            "coach": "Pawel Bodych",
+            "type": "OBWODY",
+            "duration": "60",
+            "weekday": "Środa",
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/obwody.jpg"
         },
         {
             "title": "TBC (ANITA)",
@@ -78,17 +67,6 @@
             "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/tbc.jpg"
         },
         {
-            "title": "BODY PUMP (BASIA)",
-            "desc": "Wieczorny BODY PUMP z Basią to doskonały sposób na zakończenie tygodnia. Przy energetycznej muzyce i z wykorzystaniem obciążeń, poprawisz swoją siłę i wyrzeźbisz sylwetkę pod czujnym okiem doświadczonej instruktorki.",
-            "startTime": "19:00",
-            "endTime": "20:00",
-            "coach": "Basia",
-            "type": "BODY PUMP",
-            "duration": "60",
-            "weekday": "Piątek",
-            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/body-pump.jpg"
-        },
-        {
             "title": "JOGA + ZDROWY KRĘGOSŁUP (IZA)",
             "desc": "Zajęcia jogi połączone z ćwiczeniami na zdrowy kręgosłup prowadzone przez Izę. To spokojna sesja skupiająca się na rozciąganiu, oddechu i relaksacji. Idealne dla osób pragnących zredukować stres, poprawić elastyczność i zadbać o swój kręgosłup.",
             "startTime": "20:15",
@@ -98,6 +76,28 @@
             "duration": "60",
             "weekday": "Czwartek",
             "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/joga.jpg"
+        },
+        {
+            "title": "PILATES (ANDŻELIKA)",
+            "desc": "Pilates z Andżeliką to harmonijne połączenie ćwiczeń wzmacniających i rozciągających. Andżelika skupia się na poprawie postawy, elastyczności oraz wzmocnieniu mięśni głębokich. Zajęcia są odpowiednie dla wszystkich, którzy chcą zadbać o zdrowy kręgosłup i równowagę ciała.",
+            "startTime": "09:00",
+            "endTime": "10:00",
+            "coach": "Andżelika",
+            "type": "PILATES",
+            "duration": "60",
+            "weekday": "Piątek",
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/pilates.jpg"
+        },
+        {
+            "title": "BODY PUMP (BASIA)",
+            "desc": "Wieczorny BODY PUMP z Basią to doskonały sposób na zakończenie tygodnia. Przy energetycznej muzyce i z wykorzystaniem obciążeń, poprawisz swoją siłę i wyrzeźbisz sylwetkę pod czujnym okiem doświadczonej instruktorki.",
+            "startTime": "19:00",
+            "endTime": "20:00",
+            "coach": "Basia",
+            "type": "BODY PUMP",
+            "duration": "60",
+            "weekday": "Piątek",
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/body-pump.jpg"
         }
     ],
     "coaches": [
@@ -133,4 +133,3 @@
         }
     ]
 }
-
