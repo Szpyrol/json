@@ -1,54 +1,136 @@
 {
     "events": [
         {
-            "title": "Trening siłowy z Pawłem",
-            "desc": "Pawel Bodych to doświadczony trener siłowy, znany ze swojego zaangażowania i profesjonalizmu. Jego treningi koncentrują się na budowaniu siły oraz masy mięśniowej, dostosowując intensywność ćwiczeń do potrzeb każdego uczestnika. Pawel nie tylko motywuje, ale również kładzie duży nacisk na prawidłową technikę, co minimalizuje ryzyko kontuzji i maksymalizuje efekty treningowe. Pod jego okiem uczestnicy pracują nad rozwojem zarówno siły fizycznej, jak i wytrzymałości, co sprawia, że każdy trening to krok do osiągnięcia wymarzonej sylwetki.",
-            "startTime": "10:00",
-            "endTime": "12:00",
-            "coach": "Pawel Bodych",
-            "type": "SIŁOWY",
-            "duration": "120",
-            "weekday": "Monday",
-            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/STACYJKI-PB-2.gif"
-        },
-        {
-            "title": "Trening HIIT",
-            "desc": "Intensywny trening interwałowy z Olą to wyjątkowe połączenie ćwiczeń cardio oraz elementów siłowych, które zwiększają wytrzymałość, poprawiają kondycję i przyspieszają spalanie tłuszczu. Każda sesja jest dynamiczna i pełna energii, co sprawia, że nie tylko spalasz kalorie, ale również wzmacniasz serce, płuca oraz mięśnie całego ciała. Ola, ze swoją charyzmą i motywującym podejściem, potrafi zmobilizować do intensywnego wysiłku nawet tych, którzy mają mniejszą motywację do aktywności fizycznej. Idealne dla osób szukających wyzwania i szybkich efektów!",
+            "title": "BODY PUMP (BASIA)",
+            "desc": "BODY PUMP z Basią to dynamiczny trening siłowy z wykorzystaniem sztang i ciężarków. Basia, pełna energii instruktorka, prowadzi zajęcia tak, aby każdy mógł poprawić swoją wytrzymałość, spalić kalorie i wzmocnić mięśnie. Niezależnie od poziomu zaawansowania, zajęcia z Basią dostarczą Ci motywacji i wsparcia w osiąganiu Twoich celów fitness.",
             "startTime": "09:00",
             "endTime": "10:00",
-            "coach": "Ola instruktorka",
-            "type": "HIIT",
+            "coach": "Basia",
+            "type": "BODY PUMP",
             "duration": "60",
-            "weekday": "Tuesday",
-            "pictureUrl": "http://checkingym.pl/wp-content/uploads/2019/05/Zaj%C4%99cia-1500.jpeg"
+            "weekday": "Wtorek",
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/body-pump.jpg"
         },
         {
-            "title": "Trening Cardio",
-            "desc": "Trening cardio z Anią to dynamiczna sesja, która skupia się na poprawie wydolności organizmu i efektywnym spalaniu kalorii. Dzięki odpowiednio dobranym ćwiczeniom cardio, prowadzonym w rytm energetycznej muzyki, uczestnicy mogą poczuć przypływ endorfin i zyskać więcej energii na co dzień. Ania, z pełnym profesjonalizmem i entuzjazmem, dostosowuje intensywność ćwiczeń do możliwości każdego, co czyni jej zajęcia odpowiednimi zarówno dla osób zaawansowanych, jak i dla tych, którzy dopiero zaczynają swoją przygodę z aktywnością fizyczną. Każda sesja to krok do zdrowszego i bardziej wytrzymałego ciała.",
-            "startTime": "18:00",
-            "endTime": "19:00",
-            "coach": "Ania trener",
-            "type": "CARDIO",
+            "title": "OBWODY (PAWEL)",
+            "desc": "Trening obwodowy z Pawłem to intensywna sesja łącząca ćwiczenia siłowe i cardio. Paweł Bodych, doświadczony trener, dba o to, aby każdy uczestnik pracował na maksimum swoich możliwości, poprawiając jednocześnie technikę i bezpieczeństwo wykonywanych ćwiczeń. Idealne dla osób chcących poprawić kondycję i zwiększyć siłę mięśniową.",
+            "startTime": "19:00",
+            "endTime": "20:00",
+            "coach": "Pawel Bodych",
+            "type": "OBWODY",
             "duration": "60",
-            "weekday": "Thursday",
-            "pictureUrl": "http://checkingym.pl/wp-content/uploads/2019/05/Zaj%C4%99cia-1500.jpeg"
+            "weekday": "Poniedziałek",
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/obwody.jpg"
+        },
+        {
+            "title": "OBWODY (PAWEL)",
+            "desc": "Poranny trening obwodowy z Pawłem to doskonały sposób na rozpoczęcie dnia pełnym energii. Pod okiem doświadczonego trenera skupisz się na poprawie wytrzymałości i siły, wykonując serię ćwiczeń angażujących różne partie mięśniowe.",
+            "startTime": "09:00",
+            "endTime": "10:00",
+            "coach": "Pawel Bodych",
+            "type": "OBWODY",
+            "duration": "60",
+            "weekday": "Środa",
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/obwody.jpg"
+        },
+        {
+            "title": "PILATES (ANDŻELIKA)",
+            "desc": "Pilates z Andżeliką to harmonijne połączenie ćwiczeń wzmacniających i rozciągających. Andżelika skupia się na poprawie postawy, elastyczności oraz wzmocnieniu mięśni głębokich. Zajęcia są odpowiednie dla wszystkich, którzy chcą zadbać o zdrowy kręgosłup i równowagę ciała.",
+            "startTime": "09:00",
+            "endTime": "10:00",
+            "coach": "Andżelika",
+            "type": "PILATES",
+            "duration": "60",
+            "weekday": "Piątek",
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/pilates.jpg"
+        },
+        {
+            "title": "OBWODY / Tabata (Agnieszka)",
+            "desc": "Intensywny trening obwodowy połączony z interwałami Tabata prowadzony przez Agnieszkę. To zajęcia dla osób szukających wyzwań i szybkich efektów. Agnieszka zadba o to, abyś przekroczył swoje granice, poprawił kondycję i spalił mnóstwo kalorii.",
+            "startTime": "19:00",
+            "endTime": "20:00",
+            "coach": "Agnieszka",
+            "type": "OBWODY / Tabata",
+            "duration": "60",
+            "weekday": "Wtorek",
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/tabata.jpg"
+        },
+        {
+            "title": "TBC (ANITA)",
+            "desc": "Total Body Conditioning (TBC) z Anitą to kompleksowy trening całego ciała. Anita prowadzi zajęcia w sposób dynamiczny, łącząc ćwiczenia aerobowe z siłowymi. To idealny wybór dla tych, którzy chcą wzmocnić mięśnie, poprawić kondycję i spalić kalorie w przyjaznej atmosferze.",
+            "startTime": "19:00",
+            "endTime": "20:00",
+            "coach": "Anita",
+            "type": "TBC",
+            "duration": "60",
+            "weekday": "Środa",
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/tbc.jpg"
+        },
+        {
+            "title": "TBC (ANITA)",
+            "desc": "Kolejna sesja TBC z Anitą dla tych, którzy chcą kontynuować pracę nad swoją formą. Zajęcia łączą różnorodne ćwiczenia, dzięki czemu trening nigdy nie jest monotonny, a efekty są szybko widoczne.",
+            "startTime": "19:00",
+            "endTime": "20:00",
+            "coach": "Anita",
+            "type": "TBC",
+            "duration": "60",
+            "weekday": "Czwartek",
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/tbc.jpg"
+        },
+        {
+            "title": "BODY PUMP (BASIA)",
+            "desc": "Wieczorny BODY PUMP z Basią to doskonały sposób na zakończenie tygodnia. Przy energetycznej muzyce i z wykorzystaniem obciążeń, poprawisz swoją siłę i wyrzeźbisz sylwetkę pod czujnym okiem doświadczonej instruktorki.",
+            "startTime": "19:00",
+            "endTime": "20:00",
+            "coach": "Basia",
+            "type": "BODY PUMP",
+            "duration": "60",
+            "weekday": "Piątek",
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/body-pump.jpg"
+        },
+        {
+            "title": "JOGA + ZDROWY KRĘGOSŁUP (IZA)",
+            "desc": "Zajęcia jogi połączone z ćwiczeniami na zdrowy kręgosłup prowadzone przez Izę. To spokojna sesja skupiająca się na rozciąganiu, oddechu i relaksacji. Idealne dla osób pragnących zredukować stres, poprawić elastyczność i zadbać o swój kręgosłup.",
+            "startTime": "20:15",
+            "endTime": "21:15",
+            "coach": "Iza",
+            "type": "JOGA + ZDROWY KRĘGOSŁUP",
+            "duration": "60",
+            "weekday": "Czwartek",
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/joga.jpg"
         }
     ],
     "coaches": [
         {
+            "name": "Basia",
+            "desc": "Basia to energiczna instruktorka fitness z pasją do treningów siłowych. Specjalizuje się w zajęciach BODY PUMP, gdzie zaraża uczestników swoją pozytywną energią i motywuje do przekraczania własnych granic. Zawsze dba o technikę i bezpieczeństwo ćwiczeń.",
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/basia.jpg"
+        },
+        {
             "name": "Pawel Bodych",
-            "desc": "Pawel Bodych to uznany trener personalny z wieloletnim doświadczeniem w treningach siłowych i kondycyjnych. Znany z pełnego zaangażowania oraz indywidualnego podejścia, Pawel potrafi zmotywować uczestników do osiągania najlepszych wyników, jednocześnie dbając o ich bezpieczeństwo i technikę wykonywania ćwiczeń. Jego metody są wymagające, ale bardzo efektywne, a rezultaty w postaci zwiększonej siły i masy mięśniowej mówią same za siebie. Pawel jest również pasjonatem zdrowego stylu życia, co dodatkowo inspiruje jego podopiecznych.",
+            "desc": "Pawel Bodych to uznany trener personalny z wieloletnim doświadczeniem w treningach siłowych i kondycyjnych. Znany z pełnego zaangażowania oraz indywidualnego podejścia, Pawel potrafi zmotywować uczestników do osiągania najlepszych wyników, jednocześnie dbając o ich bezpieczeństwo i technikę wykonywania ćwiczeń.",
             "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/IMG_9470-1200.jpg"
         },
         {
-            "name": "Viola Fit",
-            "desc": "Viola jest dynamiczną instruktorką, specjalizującą się w treningach interwałowych, które są idealnym połączeniem cardio i siły. Z wieloletnim doświadczeniem w pracy z różnymi grupami uczestników, Ola potrafi dostosować intensywność treningu do poziomu każdego, jednocześnie zachęcając do przekraczania własnych granic. Jej zajęcia są pełne energii, a sama Ola, z pełnym zaangażowaniem, motywuje do osiągania kolejnych celów i ciągłego rozwoju. Uczestnicy cenią ją za profesjonalizm i zdolność do budowania przyjaznej atmosfery, dzięki której każdy trening staje się wyjątkowym doświadczeniem.",
-            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/brzuch-2000-1024x678.jpeg"
+            "name": "Andżelika",
+            "desc": "Andżelika to certyfikowana instruktorka Pilates, która z pasją prowadzi zajęcia skupiające się na harmonii ciała i umysłu. Jej profesjonalizm i spokojne podejście sprawiają, że uczestnicy czują się komfortowo i są w stanie w pełni skorzystać z dobrodziejstw Pilatesu.",
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/andzelika.jpg"
         },
         {
-            "name": "Viola Kondycja",
-            "desc": "Viola to entuzjastyczna trenerka cardio, która inspiruje do poprawy kondycji fizycznej oraz osiągania nowych poziomów wytrzymałości. Dzięki jej podejściu, każdy uczestnik może liczyć na indywidualne wsparcie i porady, które pomagają w osiągnięciu lepszych wyników. Ania wierzy, że regularna aktywność fizyczna to klucz do zdrowia i dobrego samopoczucia, dlatego jej treningi są pełne motywacji, intensywności i energii. Jest znana z dynamicznych zajęć, które jednocześnie wyczerpują i dodają energii, pozwalając uczestnikom poczuć się silniejszymi i bardziej zmotywowanymi.",
-            "pictureUrl": "http://checkingym.pl/wp-content/uploads/2019/05/brzuch-2000-1024x678.jpeg"
+            "name": "Agnieszka",
+            "desc": "Agnieszka to charyzmatyczna trenerka specjalizująca się w treningach interwałowych i obwodowych. Jej zajęcia są intensywne i pełne wyzwań, ale jednocześnie prowadzone w sposób motywujący i wspierający. Agnieszka pomaga uczestnikom osiągać cele szybciej, niż się tego spodziewają.",
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/agnieszka.jpg"
+        },
+        {
+            "name": "Anita",
+            "desc": "Anita to doświadczona instruktorka fitness, która z pasją prowadzi zajęcia TBC. Jej treningi są różnorodne i dynamiczne, dzięki czemu uczestnicy nigdy się nie nudzą i ciągle są motywowani do dalszej pracy nad sobą.",
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/anita.jpg"
+        },
+        {
+            "name": "Iza",
+            "desc": "Iza to wykwalifikowana instruktorka jogi z wieloletnim doświadczeniem. Jej zajęcia łączą tradycyjne techniki jogi z ćwiczeniami wzmacniającymi kręgosłup. Iza pomaga uczestnikom znaleźć równowagę między ciałem a umysłem, poprawiając jednocześnie ich samopoczucie i zdrowie.",
+            "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/iza.jpg"
         }
     ]
 }
+
