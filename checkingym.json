@@ -2,10 +2,10 @@
     "events": [
         {
             "title": "OBWODY (PAWEL)",
-            "desc": "Trening obwodowy z Pawłem to intensywna sesja łącząca ćwiczenia siłowe i cardio. Paweł Bodych, doświadczony trener, dba o to, aby każdy uczestnik pracował na maksimum swoich możliwości, poprawiając jednocześnie technikę i bezpieczeństwo wykonywanych ćwiczeń. Idealne dla osób chcących poprawić kondycję i zwiększyć siłę mięśniową.",
+            "desc": "Trening obwodowy z Pawłem to intensywna sesja łącząca ćwiczenia siłowe i cardio. Paweł, doświadczony trener, dba o to, aby każdy uczestnik pracował na maksimum swoich możliwości, poprawiając jednocześnie technikę i bezpieczeństwo wykonywanych ćwiczeń. Idealne dla osób chcących poprawić kondycję i zwiększyć siłę mięśniową.",
             "startTime": "19:00",
             "endTime": "20:00",
-            "coach": "Pawel Bodych",
+            "coach": "Pawel",
             "type": "OBWODY",
             "duration": "60",
             "weekday": "Poniedziałek",
@@ -38,7 +38,7 @@
             "desc": "Poranny trening obwodowy z Pawłem to doskonały sposób na rozpoczęcie dnia pełnym energii. Pod okiem doświadczonego trenera skupisz się na poprawie wytrzymałości i siły, wykonując serię ćwiczeń angażujących różne partie mięśniowe.",
             "startTime": "09:00",
             "endTime": "10:00",
-            "coach": "Pawel Bodych",
+            "coach": "Pawel",
             "type": "OBWODY",
             "duration": "60",
             "weekday": "Środa",
@@ -102,8 +102,8 @@
     ],
     "coaches": [
         {
-            "name": "Pawel Bodych",
-            "desc": "Pawel Bodych to uznany trener personalny z wieloletnim doświadczeniem w treningach siłowych i kondycyjnych. Znany z pełnego zaangażowania oraz indywidualnego podejścia, Pawel potrafi zmotywować uczestników do osiągania najlepszych wyników, jednocześnie dbając o ich bezpieczeństwo i technikę wykonywania ćwiczeń.",
+            "name": "Pawel",
+            "desc": "Pawel to trener personalny z wieloletnim doświadczeniem w treningach siłowych i kondycyjnych. Znany z pełnego zaangażowania oraz indywidualnego podejścia, Pawel potrafi zmotywować uczestników do osiągania najlepszych wyników, jednocześnie dbając o ich bezpieczeństwo i technikę wykonywania ćwiczeń.",
             "pictureUrl": "https://checkingym.pl/wp-content/uploads/2019/05/IMG_9470-1200.jpg",
             "role": "Trener Personalny"
         },
@@ -126,13 +126,13 @@
             "role": "Trener Personalny"
         },
         {
-            "name": "Maciek Petryszyn",
+            "name": "Maciek",
             "desc": "Maciek Petryszyn to trener personalny z doświadczeniem w kolarstwie od 5 roku życia. Skupia się na początkujących na siłowni i aktywności fizycznej, gotów pomagać w osiąganiu celów treningowych.",
             "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/default-trainer.jpg",
             "role": "Trener Personalny"
         },
         {
-            "name": "Monika Wyszomierska",
+            "name": "Monika",
             "desc": "Monika Wyszomierska to dietetyk i trener personalny z certyfikatami z treningów funkcjonalnych i kształtowania sylwetki. Aktywna zawodniczka sportów sylwetkowych IFBB i NPC Poland, łączy zdrowe odżywianie z treningiem personalnym.",
             "pictureUrl": "https://checkingym.pl/wp-content/uploads/2020/10/default-trainer.jpg",
             "role": "Trener Personalny"
